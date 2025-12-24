@@ -1,0 +1,28 @@
+# RETIRAR colunas não desejáveis. Quero um trabalho do tipo em que a variável Posicionamento Político seja uma variável TARGET, e
+as outras variáveis podem ser utilizadas para prevê-la. Usar "mapa do Brasil" para "representar" posicionamento político por estado
+FAZER DEPLOY DA PREDIÇÃO COM STREAMLIT PARA SER FÁCIL DE USAR
+
+# EXEMPLO DE DOCUMENTAÇÃO1: https://www.kaggle.com/code/silvaffrancis/prevendo-o-campeonato-brasileiro-2024
+# EXEMPLO DE DOCUMENTAÇÃO2: https://github.com/Felintox/Analise-Preditiva-Enem-2023
+# EXEMPLO DE DOCUMENTAÇÃO3: https://github.com/beatrizmaiads/data-science-projects
+
+# vídeo usar como base https://www.youtube.com/watch?v=4P4UxXK7WE8
+
+Sugestões de análise: Explorar diferenças regionais do posicionamento ideológico (por exemplo, mais direita no Sul, mais esquerda no Nordeste); 
+cruzar identificação política com renda ou escolaridade (conforme apontado no relatório); 
+realizar regressões (por exemplo, logísticas) para identificar fatores que mais influenciam a probabilidade de 
+se declarar à direita ou à esquerda; comparar médias de opiniões sobre política/democracia entre grupos ideológicos e 
+utilizar testes de hipóteses entre esses grupos (ex.: confiança nas eleições entre declarados de esquerda vs de direita)
+
+Ideias ChatGPT: https://chatgpt.com/c/69017400-d314-832e-9471-1288e27689d2
+Ideias Gemini Pro: https://gemini.google.com/u/1/app/835bc1d291cc640a?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
+
+SOBRE O MAPEAMENTO: https://gemini.google.com/u/1/app/a1af51062c581dfc?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all
+
+Exemplo de visualizações gráficas:
+https://www.senado.leg.br/institucional/datasenado/relatorio_online/pesquisa_posicionamento_politico/2024/interativo.html
+https://www12.senado.leg.br/institucional/datasenado/materias/relatorios-de-pesquisa/pesquisa-traca-perfil-ideologico-dos-eleitores-brasileiros
+https://www.senado.leg.br/institucional/datasenado/paineis_dados/#/?pesquisa=panorama_politico
+
+
+-----------------> QUANDO TERMINAR, COLOCAR NO KAGGLE ! <-----------------

@@ -1,0 +1,47 @@
+P04 - Em que estado você mora?
+P50 - Em sua opinião, qual o principal motivo para as pessoas compartilharem uma notícia falsa nas redes sociais? (FILTRADO POR TARGET : SE PREENCHER JUNTO COM P52 E P54, SEM NULOS)
+P51 - Em sua opinião, é fácil ou difícil saber quais notícias são falsas nas redes sociais? (FILTRADO POR TARGET : SE PREENCHER JUNTO COM P52 E P54, SEM NULOS)
+P52 - Na sua opinião, as empresas donas das redes sociais deveriam ser responsáveis por impedir a divulgação de notícias falsas?
+P54 - Para garantir uma disputa justa nas eleições, quão importante é o controle das notícias falsas nas redes sociais?
+P55 - Você é a favor ou contra: 'Diminuir o lucro da Petrobrás para reduzir o preço dos combustíveis'
+P56 - Você é a favor ou contra: 'Autorizar que as pessoas usem maconha como quiserem'
+P57 - Você concorda ou discorda: 'O sistema de cotas para negros em universidades é justo.'
+P58 - Você concorda ou discorda: 'As mulheres devem ter o direito de interromper a gravidez com segurança, caso elas queiram.'
+P59 - Você concorda ou discorda: 'Deveria existir pena de morte no Brasil.'
+P60 - Você concorda ou discorda: 'Facilitar a posse de armas aumenta a segurança no Brasil.'
+P61 - Você concorda ou discorda: 'O resultado das urnas eletrônicas em eleições é confiável.'
+P62 - Em geral, qual o seu nível de satisfação com a democracia no Brasil? (FILTRADO POR TARGET : SEM NULOS)
+P63 - Regime de governo (FILTRADO POR TARGET : SEM NULOS)
+V02 - Sexo
+V03 -  Qual sua cor ou raça?
+V08 - Qual sua religião ou crença?
+V27 - Qual foi a renda total da sua família no mês passado, somando as rendas e benefícios de todas as pessoas que moram com você, inclusive a sua?
+VD_REGIAO - Região (Construída a partir da P04)
+VD_IDADE - Faixa etária
+VD_EDUCACAO - Escolaridade
+P64 (TARGET) - Na política se fala em esquerda, direita e centro. Você se considera mais de
+
+
+
+VERIFIQUEI E NÃO VOU USAR
+P49 - Nos últimos 6 meses, você teve acesso a notícias que você desconfia que sejam falsas? (FILTRADO POR TARGET : APENAS 586 NULOS)
+V11 - Qual destas frases melhor descreve seu trabalho remunerado na sua principal ocupação? (FILTRADO POR TARGET : MUITOS NULOS)
+V15 - Você é um trabalhador por aplicativos como, por exemplo, Uber ou IFood? (FILTRADO POR TARGET : MUITOS NULOS)
+
+
+
+TIREI
+P18 - Você tem plano de saúde particular? [INDICATIVO DE RENDA]
+
+
+
+AMPLAMENTE NULOS:
+P21            11856
+P22            11856
+P26            11891
+P27            11891
+P28            11891
+P37            11862
+P38            11862
+P39            11852
+P42            11883
