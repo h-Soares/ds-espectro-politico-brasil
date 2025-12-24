@@ -40,8 +40,10 @@ ds-espectro-politico-brasil/
 ├── data/                        # Dados usados no projeto
 │   ├── raw/                     # Dados brutos (pesquisas originais)
 │   │   ├── panorama_politico_01_2021/
-│   │   ├── panorama_politico_06_2024/  # Dados principais
+│   │   ├── panorama_politico_06_2024/ 
 │   │   ├── panorama_politico_11_2022/
+│   │   ├── panorama_politico_12_2016/    # Dados principais
+│   │   ├── panorama_politico_12_2019/
 │   │   └── panorama_politico_12_2021/
 │   └── processed/               # Dados processados
 │       ├── data2024.csv         # Dados processados com as variáveis selecionadas, em formato numérico
