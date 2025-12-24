@@ -472,7 +472,7 @@ with tab_analysis:
     
     # Mapeamento amigável para os nomes das imagens
     image_labels = {
-        'evolucao_posicionamento_politico.png': 'Série histórica: evolução do posicionamento político (2021–2024)',
+        'evolucao_posicionamento_politico.png': 'Série histórica: evolução do posicionamento político (2016–2024)',
         'estado-posicionamento_politico.png': 'Posicionamento político por estado',
         'motivo_compart_fnews-posicionamento_politico.png': 'Em sua opinião, qual o principal motivo para as pessoas compartilharem uma notícia falsa nas redes sociais?',
         'identificar_fnews-posicionamento_politico.png': 'Em sua opinião, é fácil ou difícil saber quais notícias são falsas nas redes sociais?',
@@ -498,7 +498,7 @@ with tab_analysis:
     
     # Dicionário com textos de análise extraídos do notebook data_analysis.ipynb
     ANALYSIS_TEXTS = {
-                'evolucao_posicionamento_politico.png': 'O gráfico acima mostra a série temporal do posicionamento político declarado pelos entrevistados em cada ano em que a pesquisa em questão foi realizada (excluindo respostas como "nenhuma" ou "não sei"). Um fato notório a se perceber é o número de entrevistados que se identificam com o posicionamento político de direita: mais de 50% nas três pesquisas mais recentes. Outro ponto importante é a quantidade de pessoas que se identificam como sendo de centro, número que aparentemente está em uma tendência de crescimento após queda nos anos anteriores. O espectro político de esquerda, por outro lado, apresenta uma tendência de queda.',
+                'evolucao_posicionamento_politico.png': 'O gráfico acima mostra a série temporal do posicionamento político declarado pelos entrevistados em cada ano em que a pesquisa em questão foi realizada (excluindo respostas como "nenhuma" ou "não sei"). Percebe-se que, em 2016, mais da metade dos entrevistados se considerava de Centro. Nos anos seguintes, esse número foi caindo, com o consequente crescimento dos espectros de Direita e Esquerda. Além disso, um fato notório a se considerar é o número de entrevistados que se identificam com o posicionamento político de direita: mais de 50% nas três pesquisas mais recentes. Outro ponto importante é a quantidade de pessoas que se identificam como sendo de centro recentemente, número que aparentemente está em uma tendência de crescimento após um longo período de queda. O espectro político de esquerda, por outro lado, apresenta uma tendência de queda.',
                 
                 'confianca_urnas-posicionamento_politico.png': 'A polarização política é observada: enquanto as pessoas que se identificam com o espectro político de esquerda e de centro confiam, em sua maioria, no sistema de votação brasileiro, os entrevistados de direita apresentam forte desconfiança.',
         
